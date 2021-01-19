@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a582c925-b840-4ec3-b136-be617d72ffe9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +13,11 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nHV6M6LrOQmjh2q5xc6kpe5hWs" />
@@ -65,7 +69,7 @@
       <updated>1611046826687</updated>
       <workItem from="1611046828762" duration="3206000" />
       <workItem from="1611050340986" duration="201000" />
-      <workItem from="1611050664950" duration="37000" />
+      <workItem from="1611050664950" duration="1154000" />
     </task>
     <servers />
   </component>
